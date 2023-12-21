@@ -1,0 +1,6 @@
+{
+    "Username": ":nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "Password": ":nth-child(3) > .oxd-input-group > :nth-child(2) > .oxd-input",
+    "LoginPage": ".oxd-button",
+    "ErrorMessage": ".oxd-alert-content > .oxd-text"    
+}

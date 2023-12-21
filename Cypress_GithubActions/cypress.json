@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://www.google.co.in/",
+    "experimentalSessionSupport": true,
+    "testFiles": "**/*.feature"
+}
