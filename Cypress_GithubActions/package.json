@@ -49,6 +49,7 @@
     "cors": "^2.8.5",
     "cypress": "^8.7.0",
     "cypress-cucumber-preprocessor": "^4.2.0",
+    "cypress-xpath": "^2.0.1",
     "express": "^4.17.1",
     "multiple-cucumber-html-reporter": "^1.18.0",
     "nodemon": "^2.0.12",

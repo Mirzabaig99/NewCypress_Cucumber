@@ -1,0 +1,4 @@
+{
+    "MenuTab_xpath1":"//li[@class='oxd-main-menu-item-wrapper']//span[text()='",
+    "MenuTab_xpath2":"']"
+}

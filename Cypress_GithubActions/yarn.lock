@@ -4732,6 +4732,11 @@ cypress-cucumber-preprocessor@^4.2.0:
     minimist "^1.2.5"
     through "^2.3.8"
 
+cypress-xpath@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/cypress-xpath/-/cypress-xpath-2.0.1.tgz"
+  integrity sha512-qMagjvinBppNJdMAkucWESP9aP4rDTs7c96m0vwMuZTVx3NqP2E3z/hkoRf8Ea9soL8yTvUuuyF1cg/Sb1Yhbg==
+
 cypress@^8.7.0:
   version "8.7.0"
   resolved "https://registry.npmjs.org/cypress/-/cypress-8.7.0.tgz"
