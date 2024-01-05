@@ -26,4 +26,4 @@ Feature: To test Home page functionality
             | Admin   | /admin               |
             | PIM     | /pim                 |
             | Leave   | /leave               |
-            | My Info | /viewPersonalDetails |
+            | My In | /viewPersonalDetails |

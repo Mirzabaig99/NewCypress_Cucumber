@@ -23,18 +23,6 @@ require('cypress-xpath');
 let isError = false;
 let firstTime = true;
 beforeEach(()=>{
-    cy.once('fail', (err) => {
-        isError = true;
-        throw err;
-      });
-      if (isError) {
-        cy.resetAll();
-      }
-      if (firstTime || isError) {
-        firstTime = false;
-        isError = false;
-        // setupMyBackend()
-      }
 })
 
 afterEach(() => {
